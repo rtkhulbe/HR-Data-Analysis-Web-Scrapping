@@ -7,8 +7,9 @@ Key Findings
 
 Experience Range:
 The analysis indicates that a significant number of candidates with 3-4 years of experience are actively seeking job changes. This highlights a trend among mid-level professionals who may be looking for new opportunities to advance their careers.
-Geographical Distribution:
+Geographical 
 
+Distribution:
 A substantial portion of the candidates surveyed is located in major tech hubs, specifically Bangalore, Hyderabad, and Chennai. This geographical concentration underscores the significance of these cities as key markets for job opportunities in the tech industry.
 
 Salary Insights:
