@@ -1,4 +1,4 @@
-# #Job Market Analysis from Naukri Portal
+# Job Market Analysis from Naukri Portal
 ![plot](https://github.com/user-attachments/assets/d3f6cab7-0d14-4114-9182-4ec6a6622049)
 # Overview
 This report presents the findings from an analysis conducted through web scraping of the Naukri job portal. The primary focus of this analysis is to understand the job-seeking behavior and characteristics of candidates in the Indian job market.
